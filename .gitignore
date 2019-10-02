@@ -1,0 +1,7 @@
+# Ignore built packages
+*pkg.tar.xz
+
+# Ignore build-directories
+chwifi-*
+pkg/
+src/
