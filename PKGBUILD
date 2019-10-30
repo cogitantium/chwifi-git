@@ -1,7 +1,7 @@
 # Maintainer: Falke Carlsen "cogitantium" <falke.cs@gmail.com>
 _pkgname=chwifi
 pkgname=${_pkgname}-git
-pkgver=r127.e75633d
+pkgver=r185.5249f1a
 pkgrel=1
 pkgdesc="network profile manager for wireless networks with rolling password systems"
 arch=('any')
